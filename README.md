@@ -11,7 +11,7 @@ You must have Firefox installed on your computer in order to use this bot.
 
 # how does it works ?
 
-It opens kahoot on several tabs (by default 20) and select a random answer.
+It opens kahoot on several tabs (by default 20) and select random answers.
 
 # Can I change the number of bots ?
 
