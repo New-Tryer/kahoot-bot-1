@@ -24,3 +24,5 @@ It opens kahoot on several tabs (by default 20) and select random answers.
 # Can I change the number of bots ?
 
 Yes, just edit line 9
+  
+</div>
