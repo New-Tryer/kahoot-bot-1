@@ -2,4 +2,4 @@
 A working Kahoot bot using Python and Selenium
 
 # requirements
-Python 3.x, Selenium
+`pip install selenium`
