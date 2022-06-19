@@ -43,7 +43,6 @@ for i in range(1,howmany):
     driver.execute_script("window.open('https://kahoot.it?pin={}')".format(code))
 
 for i in range(1,howmany):
-    print(i)
     try:
         driver.switch_to.window(driver.window_handles[i])
     except:
