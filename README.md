@@ -1,5 +1,13 @@
-# Kahoot Bot
-A working Kahoot bot using Python and Selenium
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/clement-falcon/kahoot-bot">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">Kahoot Bot</h3>
+
+  <p align="center">A working Kahoot bot using Python and Selenium</p>
 
 # requirements
 First, install selenium :
